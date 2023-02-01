@@ -4,7 +4,7 @@ namespace {%namespace%};
 
 use think\Model;
 
-class {%className%} extends Model
+class {%className%} extends Base
 {
     //
 }
